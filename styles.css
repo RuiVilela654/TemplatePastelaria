@@ -1,3 +1,11 @@
+
+@font-face {
+    font-family: 'WildNuzelnut';
+    src: url('fontes/Wild\ Hazelnut.ttf') format('truetype');
+    /* font-weight: normal;
+    font-style: normal; */
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -8,6 +16,7 @@ body {
 
 header {
     background-color: #8B4513;
+    font-family: 'WildNuzelnut', Arial, sans-serif;
     color: white;
     padding: 20px;
 }
